@@ -46,5 +46,5 @@ python3 app.py
 ```
 
 3. Acceder en navegador:
-   http://127.0.0.1:5000
-   http://127.0.0.1:5000/frotar/n(numeros de frases)
+- http://127.0.0.1:5000
+- http://127.0.0.1:5000/frotar/n(numeros de frases)
