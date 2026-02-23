@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+"""from flask import Flask, jsonify
 from bayeta import frotar
 
 app = Flask(__name__)
@@ -14,3 +14,8 @@ def endpoint_frotar(n_frases):
 
 if __name__ == "__main__":
     app.run(debug=True)
+"""
+
+from bayeta import frotar
+
+print(frotar(3))
