@@ -17,7 +17,7 @@ Cada vez que se ejecuta, muestra un mensaje aleatorio.
 git clone https://github.com/shao0088/pps_python_git_docker1.git
 ```
 ```bash
-cd pps_python_git_docker
+cd pps_python_git_docker1
 ```
 ### Crear entorno virtual
 ```bash
